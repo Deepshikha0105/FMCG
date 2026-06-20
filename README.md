@@ -213,4 +213,4 @@ streamlit run app.py
 
 ## Author
 
-Built by Harsh Kumar Saha | [GitHub](https://github.com/CodeWithHarshAI) | [LinkedIn](https://linkedin.com/in/your-profile)
+Built by Deepshikha | [GitHub](https://github.com/Deepshikha0105)
