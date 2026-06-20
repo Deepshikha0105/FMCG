@@ -1,0 +1,26 @@
+# Secrets - never commit
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.env
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Output files (optional - remove these lines if you want to commit sample outputs)
+*.docx
+*.xlsx
+raw_articles_*.json
+scored_articles_*.csv
