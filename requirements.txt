@@ -1,9 +1,0 @@
-streamlit
-groq
-requests
-feedparser
-rapidfuzz
-pandas
-python-docx
-openpyxl
-scikit-learn
