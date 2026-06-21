@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-[**Open App on Streamlit Cloud**](https://your-app-name.streamlit.app) *(replace after deploy)*
+[**Open App on Streamlit Cloud**](https://fmcgdeepshikha.streamlit.app/)
 
 ---
 
