@@ -122,7 +122,7 @@ Top N articles by composite score sent to Qwen 3 32B for newsletter generation.
 
 ```bash
 # Clone the repo
-git clone https://github.com/CodeWithHarshAI/fmcg-newsletter-agent
+git clone https://github.com/Deepshikha0105/fmcg-newsletter-agent
 cd fmcg-newsletter-agent
 
 # Create virtual environment
